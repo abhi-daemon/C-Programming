@@ -1,2 +1,2 @@
 # programming-in-c
-programming in c
+Abhishek Verma
