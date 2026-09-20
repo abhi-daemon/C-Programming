@@ -6,7 +6,7 @@ int main(){
     int n;
     printf("Enter series length:");
     scanf("%d",&n);
-    fib(n);
+    printf("%d",fib(n));
 
     return 0;
 }
@@ -18,6 +18,5 @@ int fib(int n){
     if(n==1){
         return 1;
     }
-    printf("%d ", fib(n-1)+fib(n-2));
     return fib(n-1)+fib(n-2);
 }
