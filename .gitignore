@@ -1,0 +1,30 @@
+# Compiled executables and build files
+/build/
+
+# C/C++ compiled files
+*.o
+*.obj
+*.out
+*.exe
+*.dylib
+*.so
+*.a
+
+# Debug files
+*.dSYM/
+*.core
+core
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*~
+
+# IDE temporary files
+.vscode/*.log

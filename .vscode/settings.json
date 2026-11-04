@@ -1,0 +1,10 @@
+{
+    "code-runner.saveFileBeforeRun":true,
+    "code-runner.runInTerminal": true,
+    "code-runner.showExecutionMessage": false,
+    "code-runner.clearPreviousOutput": false,
+    "code-runner.executorMap": {
+       "c": "cd \"$workspaceRoot\" && mkdir -p build && clang \"$fullFileName\" -o \"build/$fileNameWithoutExt\" && \"./build/$fileNameWithoutExt\""
+    // "c": "bash \"$workspaceRoot/.vscode/run-c.sh\" \"$fullFileName\""
+    }
+}
