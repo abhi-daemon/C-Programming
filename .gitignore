@@ -30,4 +30,4 @@ core
 .vscode/*.log
 
 # ignore vscode folder
-/.vscode
+.vscode/
