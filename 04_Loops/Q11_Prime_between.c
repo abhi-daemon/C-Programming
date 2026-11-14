@@ -1,3 +1,6 @@
+/*
+print all prime number between any two number.
+*/
 #include <stdio.h>
 int main(){
     int a,b;
