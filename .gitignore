@@ -28,3 +28,6 @@ core
 
 # IDE temporary files
 .vscode/*.log
+
+# ignore vscode folder
+/.vscode
