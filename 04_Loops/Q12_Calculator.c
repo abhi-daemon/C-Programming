@@ -1,15 +1,11 @@
 #include <stdio.h>
-
-/* 
-Q12. Write a C program to create a simple calculator using a do-while loop.
+/*   Q12. Write a C program to create a simple calculator using a do-while loop.
 The program should:
 1. Display a menu: 1. Addition; 2. Subtraction; 3. Multiplication; 4. Division; 5. Exit.
 2. Accept the user's choice.
 3. Accept two numbers and perform the selected operation.
 4. Display the result.
-5. Continue displaying the menu until the user selects Exit.
-*/
-
+5. Continue displaying the menu until the user selects Exit. */
 int main(){
     float a,b;
     int n;
